@@ -18,14 +18,14 @@ Accurate house price prediction can help:
 - **To download the dataset**: [Kaggle House Prices Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
 
-## Libraries & Tools
+## Libraries & Tools Required
 - **Python**: `numpy`, `pandas`, `math`  
 - **Data Visualization**: `matplotlib`, `seaborn`  
 - **Machine Learning**: `scikit-learn`  
 
 ## Project Workflow
 1. **Data Import & Exploration**  
-   Load datasets, inspect shapes, and explore distributions.
+   Load datasets, inspect shapes and explore distributions.
 
 2. **Data Cleaning**  
    - Remove columns with many missing values.  
